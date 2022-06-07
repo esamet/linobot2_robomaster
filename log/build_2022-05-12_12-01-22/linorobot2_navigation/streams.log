@@ -1,0 +1,55 @@
+[0.049s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake /home/samet/Desktop/lino2/src/linorobot2/linorobot2_navigation -DCMAKE_INSTALL_PREFIX=/home/samet/Desktop/lino2/install/linorobot2_navigation
+[0.350s] -- The C compiler identification is GNU 9.4.0
+[0.350s] -- The CXX compiler identification is GNU 9.4.0
+[0.350s] -- Check for working C compiler: /usr/bin/cc
+[0.350s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.350s] -- Detecting C compiler ABI info
+[0.350s] -- Detecting C compiler ABI info - done
+[0.351s] -- Detecting C compile features
+[0.351s] -- Detecting C compile features - done
+[0.352s] -- Check for working CXX compiler: /usr/bin/c++
+[0.437s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.439s] -- Detecting CXX compiler ABI info
+[0.527s] -- Detecting CXX compiler ABI info - done
+[0.542s] -- Detecting CXX compile features
+[0.542s] -- Detecting CXX compile features - done
+[0.544s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.570s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.571s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.842s] -- Configuring done
+[0.849s] -- Generating done
+[0.850s] -- Build files have been written to: /home/samet/Desktop/lino2/build/linorobot2_navigation
+[0.850s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake /home/samet/Desktop/lino2/src/linorobot2/linorobot2_navigation -DCMAKE_INSTALL_PREFIX=/home/samet/Desktop/lino2/install/linorobot2_navigation
+[0.853s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_navigation -- -j12 -l12
+[0.902s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_navigation -- -j12 -l12
+[0.943s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_navigation
+[0.948s] -- Install configuration: ""
+[0.948s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/launch
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/launch/slam.launch.py
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/launch/navigation.launch.py
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/rviz
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/rviz/linorobot2_navigation_minimal.rviz
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/rviz/linorobot2_navigation.rviz
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/rviz/linorobot2_slam.rviz
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/config
+[0.949s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/config/slam.yaml
+[0.950s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/config/navigation.yaml
+[0.950s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/maps
+[0.950s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/maps/playground.pgm
+[0.950s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/maps/playground.yaml
+[0.950s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/ament_index/resource_index/package_run_dependencies/linorobot2_navigation
+[0.951s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/ament_index/resource_index/parent_prefix_path/linorobot2_navigation
+[0.951s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/environment/ament_prefix_path.sh
+[0.951s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/environment/ament_prefix_path.dsv
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/environment/path.sh
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/environment/path.dsv
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.bash
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.sh
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.zsh
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/local_setup.dsv
+[0.952s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/package.dsv
+[0.953s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/ament_index/resource_index/packages/linorobot2_navigation
+[0.953s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/cmake/linorobot2_navigationConfig.cmake
+[0.954s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/cmake/linorobot2_navigationConfig-version.cmake
+[0.954s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_navigation/share/linorobot2_navigation/package.xml
+[0.977s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_navigation

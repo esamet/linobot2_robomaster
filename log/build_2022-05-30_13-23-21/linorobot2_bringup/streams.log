@@ -1,0 +1,31 @@
+[0.061s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_bringup': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_bringup -- -j12 -l12
+[0.328s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_bringup -- -j12 -l12
+[0.374s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_bringup': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_bringup
+[0.395s] -- Install configuration: ""
+[0.395s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/launch
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/launch/lasers.launch.py
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/launch/joy_teleop.launch.py
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/launch/bringup.launch.py
+[0.396s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/launch/sensors.launch.py
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/launch/depth.launch.py
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/config
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/config/fake_laser.yaml
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/config/ydlidar.yaml
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/config/joy.yaml
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/config/zed_common.yaml
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/ament_index/resource_index/package_run_dependencies/linorobot2_bringup
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/ament_index/resource_index/parent_prefix_path/linorobot2_bringup
+[0.396s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/environment/ament_prefix_path.sh
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/environment/ament_prefix_path.dsv
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/environment/path.sh
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/environment/path.dsv
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.bash
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.sh
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.zsh
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.dsv
+[0.397s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/package.dsv
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/ament_index/resource_index/packages/linorobot2_bringup
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/cmake/linorobot2_bringupConfig.cmake
+[0.397s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/cmake/linorobot2_bringupConfig-version.cmake
+[0.398s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_bringup/share/linorobot2_bringup/package.xml
+[0.440s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_bringup

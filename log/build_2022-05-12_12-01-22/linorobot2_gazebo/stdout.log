@@ -1,0 +1,53 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclpy: 1.0.8 (/opt/ros/foxy/share/rclpy/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/samet/Desktop/lino2/build/linorobot2_gazebo
+-- Install configuration: ""
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.sh
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/pythonpath.dsv
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/python3.8/site-packages/scripts
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/python3.8/site-packages/scripts/__init__.py
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/python3.8/site-packages/scripts/command_timeout.py
+Listing '/home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/python3.8/site-packages/scripts'...
+Compiling '/home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/python3.8/site-packages/scripts/__init__.py'...
+Compiling '/home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/python3.8/site-packages/scripts/command_timeout.py'...
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/launch
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/launch/gazebo.launch.py
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz/view_urdf.rviz
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/playground.world
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/gas_station.world
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/lib/linorobot2_gazebo/command_timeout.py
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/ament_index/resource_index/package_run_dependencies/linorobot2_gazebo
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/ament_index/resource_index/parent_prefix_path/linorobot2_gazebo
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.dsv
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.sh
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.dsv
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.bash
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.sh
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.zsh
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.dsv
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/package.dsv
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/ament_index/resource_index/packages/linorobot2_gazebo
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig.cmake
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig-version.cmake
+-- Installing: /home/samet/Desktop/lino2/install/linorobot2_gazebo/share/linorobot2_gazebo/package.xml

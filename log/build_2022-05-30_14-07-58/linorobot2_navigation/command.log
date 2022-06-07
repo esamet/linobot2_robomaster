@@ -1,0 +1,4 @@
+Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_navigation -- -j12 -l12
+Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_navigation -- -j12 -l12
+Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_navigation
+Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_navigation

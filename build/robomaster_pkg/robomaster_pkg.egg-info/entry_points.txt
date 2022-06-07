@@ -1,0 +1,4 @@
+[console_scripts]
+sdkController = robomaster_pkg.sdkController:main
+simodom = robomaster_pkg.simodom:main
+

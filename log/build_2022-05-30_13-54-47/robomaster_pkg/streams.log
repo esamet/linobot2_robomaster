@@ -1,0 +1,22 @@
+[0.669s] Invoking command in '/home/samet/Desktop/lino2/src/robomaster_pkg': PYTHONPATH=/home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robomaster_pkg build --build-base /home/samet/Desktop/lino2/build/robomaster_pkg/build install --prefix /home/samet/Desktop/lino2/install/robomaster_pkg --record /home/samet/Desktop/lino2/build/robomaster_pkg/install.log --single-version-externally-managed
+[0.841s] running egg_info
+[0.842s] writing ../../build/robomaster_pkg/robomaster_pkg.egg-info/PKG-INFO
+[0.842s] writing dependency_links to ../../build/robomaster_pkg/robomaster_pkg.egg-info/dependency_links.txt
+[0.843s] writing entry points to ../../build/robomaster_pkg/robomaster_pkg.egg-info/entry_points.txt
+[0.843s] writing requirements to ../../build/robomaster_pkg/robomaster_pkg.egg-info/requires.txt
+[0.843s] writing top-level names to ../../build/robomaster_pkg/robomaster_pkg.egg-info/top_level.txt
+[0.869s] reading manifest file '../../build/robomaster_pkg/robomaster_pkg.egg-info/SOURCES.txt'
+[0.870s] writing manifest file '../../build/robomaster_pkg/robomaster_pkg.egg-info/SOURCES.txt'
+[0.870s] running build
+[0.871s] running build_py
+[0.871s] running install
+[0.871s] running install_lib
+[0.873s] running install_data
+[0.873s] running install_egg_info
+[0.875s] removing '/home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.875s] Copying ../../build/robomaster_pkg/robomaster_pkg.egg-info to /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg-0.0.0-py3.8.egg-info
+[0.876s] running install_scripts
+[0.892s] Installing sdkController script to /home/samet/Desktop/lino2/install/robomaster_pkg/lib/robomaster_pkg
+[0.892s] Installing simodom script to /home/samet/Desktop/lino2/install/robomaster_pkg/lib/robomaster_pkg
+[0.892s] writing list of installed files to '/home/samet/Desktop/lino2/build/robomaster_pkg/install.log'
+[0.914s] Invoked command in '/home/samet/Desktop/lino2/src/robomaster_pkg' returned '0': PYTHONPATH=/home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robomaster_pkg build --build-base /home/samet/Desktop/lino2/build/robomaster_pkg/build install --prefix /home/samet/Desktop/lino2/install/robomaster_pkg --record /home/samet/Desktop/lino2/build/robomaster_pkg/install.log --single-version-externally-managed

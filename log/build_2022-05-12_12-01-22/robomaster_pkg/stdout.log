@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/robomaster_pkg/robomaster_pkg.egg-info
+writing ../../build/robomaster_pkg/robomaster_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/robomaster_pkg/robomaster_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/robomaster_pkg/robomaster_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/robomaster_pkg/robomaster_pkg.egg-info/requires.txt
+writing top-level names to ../../build/robomaster_pkg/robomaster_pkg.egg-info/top_level.txt
+writing manifest file '../../build/robomaster_pkg/robomaster_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/robomaster_pkg/robomaster_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/robomaster_pkg/robomaster_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/samet/Desktop/lino2/build/robomaster_pkg/build
+creating /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib
+creating /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg
+copying robomaster_pkg/__init__.py -> /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg
+copying robomaster_pkg/sdkController.py -> /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg
+copying robomaster_pkg/simodom.py -> /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg
+running install
+running install_lib
+creating /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg
+copying /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg/__init__.py -> /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg
+copying /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg/sdkController.py -> /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg
+copying /home/samet/Desktop/lino2/build/robomaster_pkg/build/lib/robomaster_pkg/simodom.py -> /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg
+byte-compiling /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg/sdkController.py to sdkController.cpython-38.pyc
+byte-compiling /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg/simodom.py to simodom.cpython-38.pyc
+running install_data
+creating /home/samet/Desktop/lino2/install/robomaster_pkg/share/ament_index
+creating /home/samet/Desktop/lino2/install/robomaster_pkg/share/ament_index/resource_index
+creating /home/samet/Desktop/lino2/install/robomaster_pkg/share/ament_index/resource_index/packages
+copying resource/robomaster_pkg -> /home/samet/Desktop/lino2/install/robomaster_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/samet/Desktop/lino2/install/robomaster_pkg/share/robomaster_pkg
+running install_egg_info
+Copying ../../build/robomaster_pkg/robomaster_pkg.egg-info to /home/samet/Desktop/lino2/install/robomaster_pkg/lib/python3.8/site-packages/robomaster_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+Installing sdkController script to /home/samet/Desktop/lino2/install/robomaster_pkg/lib/robomaster_pkg
+Installing simodom script to /home/samet/Desktop/lino2/install/robomaster_pkg/lib/robomaster_pkg
+writing list of installed files to '/home/samet/Desktop/lino2/build/robomaster_pkg/install.log'

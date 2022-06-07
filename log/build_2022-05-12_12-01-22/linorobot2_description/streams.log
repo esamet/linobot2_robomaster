@@ -1,0 +1,71 @@
+[0.058s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake /home/samet/Desktop/lino2/src/linorobot2/linorobot2_description -DCMAKE_INSTALL_PREFIX=/home/samet/Desktop/lino2/install/linorobot2_description
+[0.364s] -- The C compiler identification is GNU 9.4.0
+[0.364s] -- The CXX compiler identification is GNU 9.4.0
+[0.364s] -- Check for working C compiler: /usr/bin/cc
+[0.364s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.364s] -- Detecting C compiler ABI info
+[0.364s] -- Detecting C compiler ABI info - done
+[0.366s] -- Detecting C compile features
+[0.366s] -- Detecting C compile features - done
+[0.366s] -- Check for working CXX compiler: /usr/bin/c++
+[0.446s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.447s] -- Detecting CXX compiler ABI info
+[0.531s] -- Detecting CXX compiler ABI info - done
+[0.545s] -- Detecting CXX compile features
+[0.545s] -- Detecting CXX compile features - done
+[0.548s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.579s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.579s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.852s] -- Found urdf: 2.4.0 (/opt/ros/foxy/share/urdf/cmake)
+[0.962s] -- Configuring done
+[0.962s] -- Generating done
+[0.963s] -- Build files have been written to: /home/samet/Desktop/lino2/build/linorobot2_description
+[1.002s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake /home/samet/Desktop/lino2/src/linorobot2/linorobot2_description -DCMAKE_INSTALL_PREFIX=/home/samet/Desktop/lino2/install/linorobot2_description
+[1.005s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_description -- -j12 -l12
+[1.076s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_description -- -j12 -l12
+[1.111s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_description
+[1.116s] -- Install configuration: ""
+[1.116s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/launch
+[1.116s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/launch/description.launch.py
+[1.117s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf
+[1.117s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mecanum_properties.urdf.xacro
+[1.119s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/sensors
+[1.119s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/sensors/depth_sensor.urdf.xacro
+[1.119s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/sensors/imu.urdf.xacro
+[1.120s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/sensors/laser.urdf.xacro
+[1.120s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/sensors/generic_laser.urdf.xacro
+[1.120s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/robots
+[1.120s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/robots/2wd.urdf.xacro
+[1.120s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/robots/mecanum.urdf.xacro
+[1.120s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/robots/4wd.urdf.xacro
+[1.121s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/robots/square.urdf.xacro
+[1.121s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/controllers
+[1.121s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/controllers/omni_drive.urdf.xacro
+[1.121s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/controllers/diff_drive.urdf.xacro
+[1.121s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/controllers/skid_steer.urdf.xacro
+[1.122s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/2wd_properties.urdf.xacro
+[1.122s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/4wd_properties.urdf.xacro
+[1.122s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mech
+[1.122s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mech/base.urdf.xacro
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mech/mecanum_wheel2.urdf.xacro
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mech/wheel.urdf.xacro
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mech/mecanum_wheel.urdf.xacro
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/urdf/mech/caster_wheel.urdf.xacro
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/rviz
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/rviz/description.rviz
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/ament_index/resource_index/package_run_dependencies/linorobot2_description
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/ament_index/resource_index/parent_prefix_path/linorobot2_description
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/environment/ament_prefix_path.sh
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/environment/ament_prefix_path.dsv
+[1.124s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/environment/path.sh
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/environment/path.dsv
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/local_setup.bash
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/local_setup.sh
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/local_setup.zsh
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/local_setup.dsv
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/package.dsv
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/ament_index/resource_index/packages/linorobot2_description
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/cmake/linorobot2_descriptionConfig.cmake
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/cmake/linorobot2_descriptionConfig-version.cmake
+[1.125s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_description/share/linorobot2_description/package.xml
+[1.138s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_description

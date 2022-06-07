@@ -1,0 +1,22 @@
+[0.063s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_base': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_base -- -j12 -l12
+[0.313s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_base' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/samet/Desktop/lino2/build/linorobot2_base -- -j12 -l12
+[0.349s] Invoking command in '/home/samet/Desktop/lino2/build/linorobot2_base': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_base
+[0.361s] -- Install configuration: ""
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/config
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/config/ekf.yaml
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/ament_index/resource_index/package_run_dependencies/linorobot2_base
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/ament_index/resource_index/parent_prefix_path/linorobot2_base
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/environment/ament_prefix_path.sh
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/environment/ament_prefix_path.dsv
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/environment/path.sh
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/environment/path.dsv
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/local_setup.bash
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/local_setup.sh
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/local_setup.zsh
+[0.361s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/local_setup.dsv
+[0.361s] -- Installing: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/package.dsv
+[0.363s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/ament_index/resource_index/packages/linorobot2_base
+[0.364s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/cmake/linorobot2_baseConfig.cmake
+[0.364s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/cmake/linorobot2_baseConfig-version.cmake
+[0.364s] -- Up-to-date: /home/samet/Desktop/lino2/install/linorobot2_base/share/linorobot2_base/package.xml
+[0.385s] Invoked command in '/home/samet/Desktop/lino2/build/linorobot2_base' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/samet/Desktop/lino2/install/robomaster_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/samet/Desktop/lino2/build/linorobot2_base

@@ -1,0 +1,9 @@
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/install/strip.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/install/local.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/install.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/list_install_components.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/rebuild_cache.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/edit_cache.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/test.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/linorobot2_uninstall.dir
+/home/samet/Desktop/lino2/build/linorobot2/CMakeFiles/uninstall.dir
